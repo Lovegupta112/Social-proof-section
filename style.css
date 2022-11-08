@@ -354,6 +354,9 @@ h5 {
         flex-direction: column;
         /* width:70%; */
       }
+    .star-images{
+        margin-bottom: 0.4rem;
+      }
       .container .second{
         /* border:2px solid rgb(56, 87, 68);  */
         display: flex;
